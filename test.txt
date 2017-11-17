@@ -1,0 +1,20 @@
+austin:~/cs370/PA6$ java HW6 2 2 6 4
+Consumer 2: Unable to consume, buffer empty, at Time: 17-11-2017:15:17:41.00494
+Consumer 1: Removed 14 from location: 0 at Time: 17-11-2017:15:17:41.00494
+Producer: Inserted integer 14 at Location 0 at instant: 17-11-2017:15:17:41.00492
+Producer: Inserted integer 71 at Location 0 at instant: 17-11-2017:15:17:42.00523
+Consumer 1: Unable to consume, buffer empty, at Time: 17-11-2017:15:17:42.00523
+Consumer 1: Removed 71 from location: 0 at Time: 17-11-2017:15:17:42.00527
+Producer: Inserted integer 4 at Location 0 at instant: 17-11-2017:15:17:43.00523
+Consumer 1: Removed 4 from location: 0 at Time: 17-11-2017:15:17:43.00528
+Producer: Inserted integer 37 at Location 0 at instant: 17-11-2017:15:17:44.00524
+Consumer 1: Removed 37 from location: 0 at Time: 17-11-2017:15:17:44.00528
+Producer: Inserted integer 97 at Location 0 at instant: 17-11-2017:15:17:45.00524
+Consumer 1: Removed 97 from location: 0 at Time: 17-11-2017:15:17:45.00528
+Producer: Inserted integer 21 at Location 0 at instant: 17-11-2017:15:17:46.00525
+Consumer 1: Removed 21 from location: 0 at Time: 17-11-2017:15:17:46.00529
+Consumer 1: Unable to consume, buffer empty, at Time: 17-11-2017:15:17:47.00529
+Producer: Sum of numbers generated: 6
+Consumer 1: Sum of numbers consumed: 6
+Consumer 2: Sum of numbers consumed: 0
+
