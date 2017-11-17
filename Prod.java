@@ -51,7 +51,7 @@ public class Prod {
 
                 // makes the working of program easier
                 // to  understand
-                Thread.sleep(1000);
+                wait(1000);
             }
         }
 	}

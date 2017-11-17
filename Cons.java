@@ -53,7 +53,7 @@ public class Cons {
                 	notifyAll();
 
                 	// and sleep
-                	Thread.sleep(1000);
+                	wait(1000);
                 }
             }
         }
